@@ -22,12 +22,12 @@ Currently on a **long-term roadmap (2025-2026)** to transition into a **GenAI-en
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Backend**: Node.js, NestJS, Express  
-- **Frontend**: Angular, React, Next.js  
-- **Databases**: PostgreSQL, MySQL, MongoDB, Supabase  
-- **DevOps**: Docker, GitHub Actions, AWS (EC2, ECS, Fargate), NGINX  
+- **Backend**: Node.js, NestJS, Express, FlaskAPI
+- **Frontend**: Angular, React, Next.js 
+- **Databases**: PostgreSQL, MySQL, MongoDB, Supabase (Up next), Firebase
+- **DevOps & Cloud**: Docker, GitHub Actions, AWS (EC2, ECS, S3 and other services), NGINX, etc.   
 - **AI/GenAI**: OpenAI API, Cohere, LangChain (learning), HuggingFace (up next)  
-- **AI Pair Programming**: GitHub Copilot, ChatGPT  
+- **AI Pair Programming**: GitHub Copilot, ChatGPT, Cursor (Up Next)  
 - **Other Tools**: Git, Jira, Trello, Notion  
 
 ---
@@ -41,7 +41,7 @@ Currently on a **long-term roadmap (2025-2026)** to transition into a **GenAI-en
 ---
 
 ## 💡 My Mantra
-> *“Don’t just follow the path — shape your own.  
+> *“Don’t just follow the path — shape your own, you are born with unique capabilities.  
 > Strength lies in resilience, creativity, and the courage to build what doesn’t exist yet.”*
 
 ---
