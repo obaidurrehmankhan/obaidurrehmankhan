@@ -18,7 +18,7 @@ Currently on a **long-term roadmap (2025-2026)** to transition into a **GenAI-en
 ## 🏅 Certifications
 - **Node.js (Advanced Concepts & APIs)** → [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-fea736e2-1b75-4633-9846-d578a9259a4c.pdf)  
 
-**NestJS Mastery** → [View Certificate](https://www.udemy.com/certificate/UC-ce9ce346-815f-4827-b4bd-10259c4b2ef6/)  
+- **NestJS Mastery** → [View Certificate](https://www.udemy.com/certificate/UC-ce9ce346-815f-4827-b4bd-10259c4b2ef6/)  
 
 
 - *(More certificates coming soon — System Design, Cloud, AI specializations!)* 
